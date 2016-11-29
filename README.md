@@ -21,6 +21,8 @@ can be on any web server or even local
 file system.
 
 ## How To Contribute
+Pleae fork this repository and then issue Pull Requests for 
+review.
 
 ### Copyright 
 
