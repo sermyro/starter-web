@@ -2,3 +2,4 @@
 nosession
 .DS_Store
 /log
+*.orig
